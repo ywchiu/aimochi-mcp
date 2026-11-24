@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "aimochi": {
+      "url": "https://api.aimochi.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer <token>"
+      }
+    }
+  }
+}
